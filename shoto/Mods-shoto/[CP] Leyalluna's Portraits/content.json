@@ -1,0 +1,460 @@
+{
+  "Format": "1.23.0",
+  "Changes": [
+    {
+      "LogName": "Abigail Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Abigail",
+      "FromFile": "Assets/Abigail.png",
+    },
+
+    {
+      "LogName": "Abigail Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Abigail_Beach",
+      "FromFile": "Assets/Abigail_Beach.png",
+    },
+
+    {
+      "LogName": "Alex Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Alex",
+      "FromFile": "Assets/Alex.png",
+    },
+
+    {
+      "LogName": "Alex Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Alex_Beach",
+      "FromFile": "Assets/Alex_Beach.png",
+    },
+
+    {
+      "LogName": "Bear Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Bear",
+      "FromFile": "Assets/Bear.png",
+    },
+
+    {
+      "LogName": "Bouncer Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Bouncer",
+      "FromFile": "Assets/Bouncer.png",
+    },
+
+    {
+      "LogName": "Caroline Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Caroline",
+      "FromFile": "Assets/Caroline.png",
+    },
+
+    {
+      "LogName": "Caroline Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Caroline_Beach",
+      "FromFile": "Assets/Caroline_Beach.png",
+    },
+
+    {
+      "LogName": "Clint Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Clint",
+      "FromFile": "Assets/Clint.png",
+    },
+
+    {
+      "LogName": "Clint Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Clint_Beach",
+      "FromFile": "Assets/Clint_Beach.png",
+    },
+
+    {
+      "LogName": "Demetrius Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Demetrius",
+      "FromFile": "Assets/Demetrius.png",
+    },
+
+    {
+      "LogName": "Dobson Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Dobson",
+      "FromFile": "Assets/Dobson.png",
+    },
+
+    {
+      "LogName": "Dwarf Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Dwarf",
+      "FromFile": "Assets/Dwarf.png",
+    },
+
+    {
+      "LogName": "Elliott Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Elliott",
+      "FromFile": "Assets/Elliott.png",
+    },
+
+    {
+      "LogName": "Elliott Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Elliott_Beach",
+      "FromFile": "Assets/Elliott_Beach.png",
+    },
+
+    {
+      "LogName": "Emily Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Emily",
+      "FromFile": "Assets/Emily.png",
+    },
+
+    {
+      "LogName": "Emily Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Emily_Beach",
+      "FromFile": "Assets/Emily_Beach.png",
+    },
+
+    {
+      "LogName": "Evelyn Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Evelyn",
+      "FromFile": "Assets/Evelyn.png",
+    },
+
+    {
+      "LogName": "George Portrait",
+      "Action": "Load",
+      "Target": "Portraits/George",
+      "FromFile": "Assets/George.png",
+    },
+
+    {
+      "LogName": "Gil Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Gil",
+      "FromFile": "Assets/Gil.png",
+    },
+
+    {
+      "LogName": "Governor Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Governor",
+      "FromFile": "Assets/Governor.png",
+    },
+
+    {
+      "LogName": "Grandpa Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Grandpa",
+      "FromFile": "Assets/Grandpa.png",
+    },
+
+    {
+      "LogName": "Gunther Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Gunther",
+      "FromFile": "Assets/Gunther.png",
+    },
+
+    {
+      "LogName": "Gus Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Gus",
+      "FromFile": "Assets/Gus.png",
+    },
+
+    {
+      "LogName": "Haley Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Haley",
+      "FromFile": "Assets/Haley.png",
+    },
+
+    {
+      "LogName": "Haley Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Haley_Beach",
+      "FromFile": "Assets/Haley_Beach.png",
+    },
+
+    {
+      "LogName": "Harvey Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Harvey",
+      "FromFile": "Assets/Harvey.png",
+    },
+
+    {
+      "LogName": "Harvey Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Harvey_Beach",
+      "FromFile": "Assets/Harvey_Beach.png",
+    },
+
+    {
+      "LogName": "Henchman Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Henchman",
+      "FromFile": "Assets/Henchman.png",
+    },
+
+    {
+      "LogName": "Jas Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Jas",
+      "FromFile": "Assets/Jas.png",
+    },
+
+    {
+      "LogName": "Jodi Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Jodi",
+      "FromFile": "Assets/Jodi.png",
+    },
+
+    {
+      "LogName": "Jodi Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Jodi_Beach",
+      "FromFile": "Assets/Jodi_Beach.png",
+    },
+
+    {
+      "LogName": "Kent Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Kent",
+      "FromFile": "Assets/Kent.png",
+    },
+
+    {
+      "LogName": "Krobus Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Krobus",
+      "FromFile": "Assets/Krobus.png",
+    },
+
+    {
+      "LogName": "Krobus Trenchcoat Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Krobus_Trenchcoat",
+      "FromFile": "Assets/Krobus_Trenchcoat.png",
+    },
+
+    {
+      "LogName": "Leah Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Leah",
+      "FromFile": "Assets/Leah.png",
+    },
+
+    {
+      "LogName": "Leah Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Leah_Beach",
+      "FromFile": "Assets/Leah_Beach.png",
+    },
+
+    {
+      "LogName": "Lewis Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Lewis",
+      "FromFile": "Assets/Lewis.png",
+    },
+
+    {
+      "LogName": "Linus Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Linus",
+      "FromFile": "Assets/Linus.png",
+    },
+
+    {
+      "LogName": "Marlon Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Marlon",
+      "FromFile": "Assets/Marlon.png",
+    },
+
+    {
+      "LogName": "Marnie Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Marnie",
+      "FromFile": "Assets/Marnie.png",
+    },
+
+    {
+      "LogName": "Marnie Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Marnie_Beach",
+      "FromFile": "Assets/Marnie_Beach.png",
+    },
+
+    {
+      "LogName": "Maru Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Maru",
+      "FromFile": "Assets/Maru.png",
+    },
+
+    {
+      "LogName": "Maru Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Maru_Beach",
+      "FromFile": "Assets/Maru_Beach.png",
+    },
+
+    {
+      "LogName": "Maru Hospital Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Maru_Hospital",
+      "FromFile": "Assets/Maru_Hospital.png",
+    },
+
+    {
+      "LogName": "Morris Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Morris",
+      "FromFile": "Assets/Morris.png",
+    },
+
+    {
+      "LogName": "MrQi Portrait",
+      "Action": "Load",
+      "Target": "Portraits/MrQi",
+      "FromFile": "Assets/MrQi.png",
+    },
+
+    {
+      "LogName": "Pam Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Pam",
+      "FromFile": "Assets/Pam.png",
+    },
+
+    {
+      "LogName": "Pam Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Pam_Beach",
+      "FromFile": "Assets/Pam_Beach.png",
+    },
+
+    {
+      "LogName": "Penny Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Penny",
+      "FromFile": "Assets/Penny.png",
+    },
+
+    {
+      "LogName": "Penny Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Penny_Beach",
+      "FromFile": "Assets/Penny_Beach.png",
+    },
+
+    {
+      "LogName": "Pierre Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Pierre",
+      "FromFile": "Assets/Pierre.png",
+    },
+
+    {
+      "LogName": "Pierre Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Pierre_Beach",
+      "FromFile": "Assets/Pierre_Beach.png",
+    },
+
+    {
+      "LogName": "Robin Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Robin",
+      "FromFile": "Assets/Robin.png",
+    },
+
+    {
+      "LogName": "Robin Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Robin_Beach",
+      "FromFile": "Assets/Robin_Beach.png",
+    },
+
+    {
+      "LogName": "Sam Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Sam",
+      "FromFile": "Assets/Sam.png",
+    },
+
+    {
+      "LogName": "Sam Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Sam_Beach",
+      "FromFile": "Assets/Sam_Beach.png",
+    },
+
+    {
+      "LogName": "Sandy Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Sandy",
+      "FromFile": "Assets/Sandy.png",
+    },
+
+    {
+      "LogName": "Sebastian Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Sebastian",
+      "FromFile": "Assets/Sebastian.png",
+    },
+
+    {
+      "LogName": "Sebastian Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Sebastian_Beach",
+      "FromFile": "Assets/Sebastian_Beach.png",
+    },
+
+    {
+      "LogName": "Shane Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Shane",
+      "FromFile": "Assets/Shane.png",
+    },
+
+    {
+      "LogName": "Shane Beach Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Shane_Beach",
+      "FromFile": "Assets/Shane_Beach.png",
+    },
+
+    {
+      "LogName": "Vincent Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Vincent",
+      "FromFile": "Assets/Vincent.png",
+    },
+
+    {
+      "LogName": "Willy Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Willy",
+      "FromFile": "Assets/Willy.png",
+    },
+
+    {
+      "LogName": "Wizard Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Wizard",
+      "FromFile": "Assets/Wizard.png",
+    },
+
+  ]
+}

@@ -1,0 +1,12 @@
+{
+   "Name": "Leyalluna's Portraits",
+   "Author": "Leyalluna",
+   "Version": "1.6",
+   "Description": "Replaces NPC Portraits",
+   "UniqueID": "Leyalluna.Portraits",
+   "MinimumApiVersion": "3.8.0",
+   "UpdateKeys": [ "Nexus:2181" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+	   }
+}
